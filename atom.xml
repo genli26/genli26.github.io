@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Tengfei Lyu&#39;s Homepage</title>
+  <title>Gen Li&#39;s Homepage</title>
   
   
-  <link href="https://tfeilyu.github.io/atom.xml" rel="self"/>
+  <link href="https://genli26.github.io/atom.xml" rel="self"/>
   
-  <link href="https://tfeilyu.github.io/"/>
+  <link href="https://genli26.github.io/"/>
   <updated>2022-10-03T06:25:09.000Z</updated>
-  <id>https://tfeilyu.github.io/</id>
+  <id>https://genli26.github.io/</id>
   
   <author>
-    <name>Tengfei Lyu</name>
+    <name>Gen Li</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Introduction</title>
-    <link href="https://tfeilyu.github.io/2022/04/29/index/"/>
-    <id>https://tfeilyu.github.io/2022/04/29/index/</id>
+    <link href="https://genli26.github.io/2022/04/29/index/"/>
+    <id>https://genli26.github.io/2022/04/29/index/</id>
     <published>2022-04-28T21:00:00.000Z</published>
     <updated>2022-10-03T06:25:09.000Z</updated>
     
